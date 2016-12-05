@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf8 -*-
-# author		: Christux
+# author	: Christux
 # copyright	: Copyright 2015
 # license	: GPL
 

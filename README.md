@@ -5,4 +5,7 @@ Python graphical Conway's Game of Life
 <i>Cells.py</i> contains the backend methods for living cells calculation.</br>
 <i>GUI.py</i> is the frontend Tkinter interface.</br>
 </br>
-See : <a href="https://en.wikipedia.org/wiki/Conway's_Game_of_Life">https://en.wikipedia.org/wiki/Conway's_Game_of_Life</a>.
+<i>HPLifeGame.py</i> and <i>HPCells.py</i> are high performances versions for large grids (ables the study of R-pentomino Methuselah.</br>
+</br>
+See : <a href="https://en.wikipedia.org/wiki/Conway's_Game_of_Life">https://en.wikipedia.org/wiki/Conway's_Game_of_Life</a>.</br>
+See also : <a href="http://www.conwaylife.com/w/index.php?title=R-pentomino">http://www.conwaylife.com/w/index.php?title=R-pentomino</a>.
