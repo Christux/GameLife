@@ -1,6 +1,6 @@
 # GameLife
 Python graphical Conway's Game of Life
 
-LifeGame.py is the main program.
-Cells.py contains the backend methods for living cells calculation.
-GUI.py is the frontend Tkinter interface.
+<i>LifeGame.py</i> is the main program.</br>
+<i>Cells.py</i> contains the backend methods for living cells calculation.</br>
+<i>GUI.py</i> is the frontend Tkinter interface.
